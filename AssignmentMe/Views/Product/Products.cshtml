@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "Products";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+<div class="row justify-content-md-center mt-4">
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header">
+                <h2>Add Products <span class="fw-bolder" style="text-indent: 30%">@Session["username"]</span></h2>                
+            </div>
+            <div class="card-body">
+                <form action="" method="post">
+
+                    <div class="row mb-3">
+                        <label for="proname" class="col-sm-3 col-form-label">Pro-Name:</label>
+                        <div class="col-sm-8">
+                            <input type="text" name="proName" class="form-control" id="proname" placeholder="Product Name">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="proprice" class="col-sm-3 col-form-label">Pro-Price:</label>
+                        <div class="col-sm-8">
+                            <input type="number" name="price" class="form-control" id="proprice" placeholder="Number Price Of Product">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <div class="col-sm-8 text-md-center">
+                            <input type="submit" name="save" class="btn btn-outline-primary" value="Save" />
+                        </div>
+                    </div>
+
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

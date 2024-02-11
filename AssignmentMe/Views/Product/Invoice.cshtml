@@ -1,0 +1,65 @@
+﻿
+@{
+    ViewBag.Title = "Invoice";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+    <div class="card">
+        <div class="card-body">
+            <div class="container  mb-5 mt-3"> 
+                <div class="col-md-12">
+                    <div class="text-center fw-bold">
+                        <i class="fab fa-mdb fa-4x ms-0" style="color:#5d9fc5;"></i>
+                        <p class="pt-0">Invoice</p>         
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-xl-8">
+                        <ul class="list-unstyled">
+                            <li class="text-muted">To: <span style="color:#5d9fc5">@Session["username"]</span></li>
+                            <li class="text-muted">
+                                <i class="fas fa-circle" style="color:#84B0CA ;"></i><span class="fw-bold">
+                                    Product Order:
+                                </span>@TempData.Peek("productName")
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="row my-2 mx-1 justify-content-center">
+                    <form action="" method="post">
+                        <table class="table table-striped table-borderless">
+                            <thead>
+                                <tr>
+                                    <th scope="col">#</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Qty</th>
+                                    <th scope="col">Price</th>
+                                    <th scope="col">Total</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <th scope="row">1</th>
+                                    <td>@TempData.Peek("productName")</td>
+                                    <td>@TempData.Peek("qty")</td>
+                                    <td>@TempData.Peek("price")</td>
+                                    <td>@TempData.Peek("total")</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <div class="row text-end">
+                            <div class="col-xl-8">
+                                <ul class="list-unstyled">
+                                    <li class="text-muted ms-3"><span>Discount(%): </span>@TempData.Peek("discount")%</li>
+                                    <li class="text-muted ms-3 mt2"><span>SubTotal($): </span>@TempData.Peek("SubTotal")$</li>
+                                </ul>
+
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
