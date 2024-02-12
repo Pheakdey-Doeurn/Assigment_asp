@@ -28,7 +28,8 @@ namespace AssignmentMe.Controllers
         [HttpPost]
         public ActionResult Order(int qty,int discount)
         {
-            decimal price = 20;
+            decimal price = Convert.ToDecimal(TempData["price"]);
+
             TempData["qty"] = qty;
             TempData["discount"] = discount;
             TempData["total"] = (price * qty);
