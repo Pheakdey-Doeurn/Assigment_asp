@@ -4,7 +4,7 @@
     Layout = "~/Views/Shared/_LayoutPage1.cshtml";
 }
 
-    <div class="card">
+    <div class="card md-6">
         <div class="card-body">
             <div class="container  mb-5 mt-3"> 
                 <div class="col-md-12">
@@ -47,11 +47,14 @@
                                 </tr>
                             </tbody>
                         </table>
-                        <div class="row text-end">
+                        <div class="row">
                             <div class="col-xl-8">
+                                <p class="ms-3">Add additional notes and payment information</p>
+                            </div>
+                            <div class="col-xl-3">
                                 <ul class="list-unstyled">
-                                    <li class="text-muted ms-3"><span>Discount(%): </span>@TempData.Peek("discount")%</li>
-                                    <li class="text-muted ms-3 mt2"><span>SubTotal($): </span>@TempData.Peek("SubTotal")$</li>
+                                    <li class="text-muted ms-3"><span class="text-black me-4">Discount(%): </span>@TempData.Peek("discount")%</li>
+                                    <li class="text-muted ms-3 mt-2"><span class="text-black me-4">SubTotal($): </span>@TempData.Peek("SubTotal")$</li>
                                 </ul>
 
                             </div>

@@ -3,27 +3,27 @@
   "WorkspaceRootPath": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|c:\\users\\pheakdey\\desktop\\assignmentme\\assignmentme\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|c:\\users\\pheakdey\\desktop\\assignmentme\\assignmentme\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\assignmentme\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|c:\\users\\pheakdey\\desktop\\assignmentme\\assignmentme\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|c:\\users\\pheakdey\\desktop\\assignmentme\\assignmentme\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|c:\\users\\pheakdey\\desktop\\assignmentme\\assignmentme\\views\\product\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\views\\product\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|c:\\users\\pheakdey\\desktop\\assignmentme\\assignmentme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\assignmentme\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\views\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\assignmentme\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\assignmentme\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\views\\product\\order.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\assignmentme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3425B709-DCE9-4D72-A500-2D4B249E28F1}|AssignmentMe\\AssignmentMe.csproj|solutionrelative:assignmentme\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Products.cshtml",
               "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\AssignmentMe\\Views\\Product\\Products.cshtml",
               "RelativeDocumentMoniker": "AssignmentMe\\Views\\Product\\Products.cshtml",
@@ -46,25 +46,24 @@
               "RelativeToolTip": "AssignmentMe\\Views\\Product\\Products.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-12T10:31:08.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-12T10:31:08.508Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Invoice.cshtml",
               "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\AssignmentMe\\Views\\Product\\Invoice.cshtml",
               "RelativeDocumentMoniker": "AssignmentMe\\Views\\Product\\Invoice.cshtml",
               "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\AssignmentMe\\Views\\Product\\Invoice.cshtml",
               "RelativeToolTip": "AssignmentMe\\Views\\Product\\Invoice.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAoAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-11T10:26:04.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Order.cshtml",
               "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\AssignmentMe\\Views\\Product\\Order.cshtml",
               "RelativeDocumentMoniker": "AssignmentMe\\Views\\Product\\Order.cshtml",
@@ -72,12 +71,11 @@
               "RelativeToolTip": "AssignmentMe\\Views\\Product\\Order.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAABzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-11T09:54:12.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-11T09:54:12.364Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\AssignmentMe\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "AssignmentMe\\Controllers\\ProductController.cs",
@@ -85,18 +83,17 @@
               "RelativeToolTip": "AssignmentMe\\Controllers\\ProductController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAQwBwAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-11T06:08:50.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-11T06:08:50.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\AssignmentMe\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "AssignmentMe\\Views\\Account\\Login.cshtml",
               "ToolTip": "C:\\Users\\PHEAKDEY\\Desktop\\AssignmentMe\\AssignmentMe\\Views\\Account\\Login.cshtml",
               "RelativeToolTip": "AssignmentMe\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAuwBQAAAC1AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-11T06:07:30.513Z",
               "EditorCaption": ""
